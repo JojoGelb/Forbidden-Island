@@ -1,12 +1,10 @@
-====================
-Projet Île Interdite
-====================
+# Projet Île Interdite
 
-**TODO: remplir votre cartouche d'identification**
+**Équipe**: team-4 
 
-:**Équipe**: team-4
-:**Membres**: Gelb Jordy, Angerman Alexa, Mulin Sevan Prénom, Lesueur Jade
-:**Chef de projet**: Gelb Jordy
+**Membres**: Gelb Jordy, Angerman Alexa, Mulin Sevan Prénom, Lesueur Jade
+
+**Chef de projet**: Gelb Jordy
 
 
 Description du projet
@@ -26,4 +24,6 @@ Installation
   - paquet snap (Ubuntu) : https://snapcraft.io/netbeans
   - autre : https://netbeans.apache.org/download/nb113/nb113.html
 
-- ``git``\  : `https://git-scm.com/book/fr/v2/Démarrage-rapide-Installation-de-Git <https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git>`__
+# Vidéo demonstration youtube 
+
+https://www.youtube.com/watch?v=P9fTEMQXCSE
